@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_calendar"
+        android:enabled="true"
+        android:icon="@drawable/calendar"
+        android:title="일정"/>
+    <item
+        android:id="@+id/action_list"
+        android:enabled="true"
+        android:icon="@drawable/list"
+        android:title="TODO LIST"/>
+    <item
+        android:id="@+id/action_record"
+        android:enabled="true"
+        android:icon="@drawable/record"
+        android:title="기록"/>
+    <item
+        android:id="@+id/action_alarm"
+        android:enabled="true"
+        android:icon="@drawable/alarm"
+        android:title="알람"/>
+
+
+
+
+
+    <item
+        android:id="@+id/action_community"
+        android:enabled="true"
+        android:icon="@drawable/community"
+        android:title="커뮤니티"/>
+
+</menu>

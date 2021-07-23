@@ -1,0 +1,2 @@
+rootProject.name = "bottomnavibar_calendar_ex1"
+include ':app'
